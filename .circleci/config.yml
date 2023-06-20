@@ -81,5 +81,5 @@ workflows:
     jobs:
     - run-dockerize-command
     - run-dockerize-command-on-remote-docker
-    - build-dockerize
-    - build-dockerize-on-remote-docker
+    - build-docker
+    - build-docker-on-remote-docker
